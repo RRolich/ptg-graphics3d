@@ -2,7 +2,7 @@
 Еxploring the possibilities three.js
 3D models
 
-<h1 align="left">Что я увижу при запуске <a href="https://github.com/RRolich/ptg-graphics3d/blob/main/main.js" target="_blank">программы?</a>
+<h1 align="left">Что я увижу при запуске <a href="https://github.com/RRolich/ptg-graphics3d/blob/main/main.js" target="_blank">программы?</a> height="24"</h1>
 
 На самом деле, каждый увидит своё. 
 Визуал - сцена, кисть, 3D модели
